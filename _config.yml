@@ -1,5 +1,8 @@
 title: Antonio Squicciarini
-logo: assets/img/IMG_4828_circle.jpg
+#logo: assets/img/my_photo_circle.jpg
+url: "https://antosquicciarini.github.io"
+baseurl: ""
+avatar: "/assets/images/my_photo_circle.jpg"
 #description
 show_downloads: true
 theme: jekyll-theme-minimal
