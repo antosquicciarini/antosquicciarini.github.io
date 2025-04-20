@@ -4,6 +4,10 @@
 
 ---
 
+- [About](about)
+- [Projects](projects)
+- [Contact](contact)
+
 ## 🎓 Education
 
 **PhD Mobility Project**  
