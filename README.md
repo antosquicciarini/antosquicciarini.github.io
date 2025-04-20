@@ -1,5 +1,3 @@
-# Antonio Squicciarini
-
 📧 [a.squicciarini@alumnos.upm.es](mailto:a.squicciarini@alumnos.upm.es)  
 🔗 [LinkedIn](https://linkedin.com/in/antonio-squicciarini-8b83b3118)  
 📞 +39 3914872393 / +34 638862899
