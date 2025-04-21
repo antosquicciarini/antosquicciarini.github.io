@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom logo size for non-homepage pages */
+body:not(.home) .site-title::before {
+  content: url("/assets/img/my_photo_circle.jpg");
+  display: inline-block;
+  width: 40px; /* Adjust the width as desired */
+  height: auto;
+  vertical-align: middle;
+}
