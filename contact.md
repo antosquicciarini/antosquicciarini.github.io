@@ -15,4 +15,5 @@ C/José Gutiérrez Abascal 2, 28006 Madrid, España
 📞 +34 638 862 899  
 📱 +39 391 487 2393 (WhatsApp)  
 🔗 [LinkedIn](https://www.linkedin.com/in/antonio-squicciarini)  
-🌐 [https://antosquicciarini.github.io](https://antosquicciarini.github.io)
+🐙 [GitHub](https://github.com/antosquicciarini)  
+🌐 [Personal Website](https://antosquicciarini.github.io)
