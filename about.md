@@ -5,6 +5,16 @@ title: About
 
 # About Me
 
+Hello! I'm Antonio Squicciarini, a PhD candidate in Engineering with a growing passion for machine learning and data-driven technologies.
+
+I was born in the beautiful town of **Matera**, in southern Italy, where I completed all my early education up to high school at *Liceo Scientifico Dante Alighieri*. My academic journey took shape at the **Politecnico di Torino**, where I pursued both my **Bachelor's and Master’s degrees in Mechanical Engineering**. 
+
+During my final year, I had the opportunity to study abroad at **E.T.S.I. Industriales, Universidad Politécnica de Madrid (UPM)**, which significantly enriched my education and perspective. It was here, while working on my master’s thesis, that I first encountered the field of **machine learning**—an area that immediately captivated me with its potential and complexity.
+
+After graduation, I joined UPM as a **postgraduate researcher**, where I deepened my focus on data analysis and algorithm development. This experience laid the groundwork for my current **PhD project**, which blends **information theory, signal processing, and machine learning** to develop innovative anomaly detection techniques. My PhD is now approaching its final phase, and I continue to be driven by curiosity and interdisciplinary challenges.
+
+---
+
 ## 🎓 Education
 
 **PhD Mobility Project**  
@@ -51,14 +61,6 @@ Liceo Scientifico Dante Alighieri, Matera, Italy (2010 – 2015)
 
 ---
 
-## 🌍 Other Experience
-
-- **Model UN**, New York, USA (2015)  
-- **Scout Volunteer**, CNGEI, Matera (2012–2014)  
-- **Student Representative**, High School Board (2013–2015)
-
----
-
 ## 🌐 Language Skills
 
 - **English**: B2 (Cambridge FCE, 2015)  
@@ -71,5 +73,3 @@ Liceo Scientifico Dante Alighieri, Matera, Italy (2010 – 2015)
 **Languages**: Python, C  
 **Software**: MATLAB, SolidWorks, Automation Studio, NX Siemens, FlexSim, Ansys Mechanical, LaTeX  
 **Tools**: Jupyter, Anaconda, GitHub, Google Cloud Platform
-
-
