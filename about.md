@@ -73,3 +73,7 @@ Liceo Scientifico Dante Alighieri, Matera, Italy (2010 – 2015)
 **Languages**: Python, C  
 **Software**: MATLAB, SolidWorks, Automation Studio, NX Siemens, FlexSim, Ansys Mechanical, LaTeX  
 **Tools**: Jupyter, Anaconda, GitHub, Google Cloud Platform
+
+---
+
+[🔙 Back to Home](./)
