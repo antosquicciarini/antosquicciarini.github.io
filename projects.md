@@ -5,6 +5,8 @@ title: Projects
 
 # Projects
 
+Welcome to my portfolio of selected research and engineering projects. My work spans machine learning applications, time-series analysis, signal processing, and real-world diagnostics in high-voltage systems and mechanical components. Below you'll find detailed descriptions of my key contributions, including methodologies, visuals, and links to related publications.
+
 ---
 
 ## ⏱️ Multiscale Time-Series Feature Extraction Using Entropic & Informational Functionals
