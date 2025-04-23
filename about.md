@@ -44,6 +44,34 @@ Liceo Scientifico Dante Alighieri, Matera, Italy (2010 – 2015)
 
 ---
 
+## 🔬 Research Experience
+
+**SIAM MDS22** — Poster: *Training Neural Networks with Synthetic Data* (USA, 2022)  
+**CIBIM2022** — Paper: *Rub Detection in Gas Turbines with Deep Learning* (Madrid, 2022)  
+**CEM Workshop** — Poster: *Validation of Calibration Procedures for HVDC PD Analyzers* (2023)  
+**FDA & Nonparametric Stats Workshop** — Seminar: *EEG Seizure Analysis with KDE & Info Metrics*  
+**IX Iberian Modelling Week** — Project: *Cryoablation Tumor Segmentation Algorithm*  
+**BYMAD Conference** — Presentation: *EEG Seizure Description via Entropic Metrics*  
+**III Junior Interdisciplinary Workshop** — Talk: *Time Signal Anomaly Detection Using KDE*
+
+---
+
+## 💼 Work Experience
+
+**Postgraduate Researcher**  
+Universidad Politécnica de Madrid (2020 – 2022)  
+- Developed supervised algorithms for partial discharge classification in HV networks.
+
+---
+
+## 🛠 University Projects
+
+- **ERASMUS+ Programme**, UPM (2019–2020)  
+- **PoliTo Sailing Team**, Dynamic Division (2018–2019)  
+- **SEI - Explorer Module**, Fondazione Agnelli (2018)  
+- **Percorso per Giovani Talenti**, Politecnico di Torino (2015–2018)
+
+---
 ## 🌍 Other Experience
 
 - **Model UN**, New York, USA (2015)  
@@ -65,7 +93,7 @@ Liceo Scientifico Dante Alighieri, Matera, Italy (2010 – 2015)
 
 - **English**: B2 (Cambridge FCE, 2015)  
 - **Spanish**: B2 (Centro de Lenguas – UPM, 2020)
-
+  
 ---
 
 ## 💻 Computer Skills
