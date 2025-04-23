@@ -14,6 +14,30 @@ PD detection is essential in **AC systems**, but with the growing development of
 
 ---
 
+### 🧬 Types of Partial Discharges
+
+Partial discharges can manifest in different forms, depending on the location and mechanism of the discharge. Understanding these types helps in better diagnosis and classification:
+
+- **Corona Discharge**: Occurs in gaseous media, typically around sharp edges or points where the electric field is highly concentrated. It is often accompanied by audible noise and ozone production.
+- **Void Discharge**: Takes place within internal air-filled voids in solid insulating materials. These are dangerous over time as they can erode the insulation from the inside.
+- **Surface (Superficial) Discharge**: Happens along the surface of insulating materials, especially in contaminated or moist environments. It can lead to tracking and eventual breakdown.
+- **Floating Potential Discharge**: Arises from conductive elements embedded in the insulation that are not at a fixed electrical potential. These can oscillate and trigger discharges as the electric field fluctuates.
+
+---
+
+### ❓ Why Classifying PD Types Matters
+
+Correctly **identifying the type of partial discharge** is crucial because each type is associated with different failure mechanisms, risk levels, and preventive actions:
+
+- **Diagnostic Insight**: Each PD type reveals specific faults—voids suggest material degradation, while surface discharges may indicate environmental contamination.
+- **Targeted Maintenance**: Accurate classification enables **predictive maintenance**, reducing downtime and extending equipment lifespan.
+- **Risk Assessment**: Some PD types, like void discharges, may escalate more rapidly into full breakdowns than others like corona. Recognizing this allows for **prioritization of interventions**.
+- **Data-Driven Design**: Understanding the most common PD types in specific environments helps engineers design more **robust insulation systems**.
+
+In short, classification is not just a labeling exercise — it’s a **strategic tool** for electrical asset management and grid resilience.
+
+---
+
 ### 🧪 Our Project
 
 In our project, we tackled the challenge of PD classification in DC systems by leveraging deep learning techniques with an emphasis on data representation and interpretability.
@@ -21,6 +45,8 @@ In our project, we tackled the challenge of PD classification in DC systems by l
 #### 📊 1. Preprocessing Inspired by PRPD Maps
 
 We developed a data preprocessing technique inspired by **Phase-Resolved Partial Discharge (PRPD)** representations. Although PRPD maps are traditionally used in AC systems, we adapted them for input into **Convolutional Neural Networks (CNNs)**, enabling the use of computer vision methods for PD classification.
+
+> 📌 *Note: The PRPD-based approach for AC PD classification is currently under development.*
 
 ![PRPD-based preprocessing](./assets/img/PRPD_1.png)
 
@@ -44,6 +70,10 @@ Finally, we designed a full classification pipeline tailored to partial discharg
 
 ![PD classification in DC systems](./assets/img/PD_DC.png)
 
+> 📝 *The results of this work applied to HVDC PD classification are published in:*  
+> **[1]** C. Vera et al., “Validation of a Qualification Procedure Applied to the Verification of Partial Discharge Analysers Used for HVDC or HVAC Networks,” *Applied Sciences*, vol. 13, no. 14, Art. no. 8214, 2023.  
+> [https://doi.org/10.3390/app13148214](https://doi.org/10.3390/app13148214)
+
 ---
 
 ### 📚 References
@@ -51,9 +81,13 @@ Finally, we designed a full classification pipeline tailored to partial discharg
 1. IEC 60270 – High-voltage test techniques – Partial discharge measurements.  
 2. M. Cavallini & G.C. Montanari, *IEEE Trans. Dielectrics and Electrical Insulation*, 2005.  
 3. R. Albarracín et al., *IEEE Electrical Insulation Magazine*, 2019.  
-4. M. Sundararajan et al., “Axiomatic Attribution for Deep Networks,” *ICML 2017*.
+4. M. Sundararajan et al., “Axiomatic Attribution for Deep Networks,” *ICML 2017*.  
+5. C. Vera et al., *Applied Sciences*, vol. 13, no. 14, 2023. [DOI](https://doi.org/10.3390/app13148214)
 
 ---
+
+[🔙 Back to Home](./)
+
 
 ## 🔬 Research Experience
 
