@@ -11,6 +11,7 @@ This portfolio showcases my academic projects, published research, and collabora
 - 🔬 [Projects](projects) — A detailed collection of my applied research in deep learning, signal analysis, and intelligent fault detection.
 - 👤 [About](about) — Learn more about my academic background, experiences, and research trajectory.
 - 📬 [Contact](contact) — Reach out or connect with me via email, LinkedIn, or GitHub.
+- 📄 [Download My CV](CV_Antonio_Squicciarini.pdf) — Get a copy of my academic CV in PDF format.
 
 ---
 
