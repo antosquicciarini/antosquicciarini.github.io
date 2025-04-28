@@ -25,15 +25,15 @@ This data-driven approach avoids the need to collect dangerous real-world fault 
 ## 🧩 Finite Element Model Simulation
 Here are two visualizations from the FE model used to generate synthetic training data for rub scenarios:
 
-![FE model example 1](./assets/img/FE_model_1.png)  
+![FE model example 1](/assets/img/FE_model_1.png)  
 *Finite Element model simulating single-point rub in high-speed shaft.*
 
-![FE model example 2](./assets/img/FE_model_2.png)  
+![FE model example 2](/assets/img/FE_model_2.png)  
 *FE mesh used to simulate both light and heavy rub events.*
 
 ## 🧪 Real Experimental Setup
 
-![Real experimental rig](./assets/img/Real_exp.png)  
+![Real experimental rig](/assets/img/Real_exp.png)  
 *Experimental test bench with mounted accelerometers and proximity sensors used to validate model predictions.*
 
 ---
@@ -44,12 +44,12 @@ We tested multiple DNN architectures with different regularization techniques (L
 
 ## 📋 Result Summary
 
-![Result Table](./assets/img/Result_table.png)  
+![Result Table](/assets/img/Result_table.png)  
 *Performance of different DNN models on real test signals after training on synthetic data.*
 
 ## 📈 AUC/ROC Curves Comparison
 
-![AUC ROC Curves](./assets/img/AUC_ROC_curves.png)  
+![AUC ROC Curves](/assets/img/AUC_ROC_curves.png)  
 *Comparison of AUC-ROC performance across models with varying regularization. Shows impact of regularization on robustness and transfer learning accuracy.*
 
 ---
@@ -60,3 +60,7 @@ We tested multiple DNN architectures with different regularization techniques (L
 *Application of Deep Neural Networks for Automatic Rub Detection in Aero-Derivative Gas Turbines*,  
 Advanced Engineering Informatics, vol. 62, 2024, Art. no. 102607.  
 📎 [DOI: 10.1016/j.aei.2024.102607](https://doi.org/10.1016/j.aei.2024.102607)
+
+---
+
+[⬅️ Back to Projects](/projects)
