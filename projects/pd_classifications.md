@@ -75,3 +75,7 @@ Finally, we designed a full classification pipeline tailored to partial discharg
 3. R. Albarracín et al., *IEEE Electrical Insulation Magazine*, 2019.  
 4. M. Sundararajan et al., “Axiomatic Attribution for Deep Networks,” *ICML 2017*.  
 5. C. Vera et al., *Applied Sciences*, vol. 13, no. 14, 2023. [DOI](https://doi.org/10.3390/app13148214)
+
+---
+
+[⬅️ Back to Projects](/projects)
