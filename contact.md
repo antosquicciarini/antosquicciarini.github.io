@@ -14,9 +14,7 @@ C/José Gutiérrez Abascal 2, 28006 Madrid, España
 📧 [antoniosquicciarini97@gmail.com](mailto:antoniosquicciarini97@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/antonio-squicciarini)  
 🐙 [GitHub](https://github.com/antosquicciarini)  
-
 📚 [Researcher Profile - UPM Portal Científico](https://portalcientifico.upm.es/es/ipublic/researcher/333043)
-
 🌐 [Personal Website](https://antosquicciarini.github.io)
 
 ---
