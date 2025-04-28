@@ -18,4 +18,5 @@ Thanks for visiting — feel free to explore, clone, or contribute.
 Let’s build something meaningful together!
 
 [![GitHub](https://img.shields.io/github/followers/antosquicciarini?label=Follow&style=social)](https://github.com/antosquicciarini)
+---
 📄 [Download My CV](assets/CV_Antonio_Squicciarini.pdf) — Get a copy of my academic CV in PDF format.
