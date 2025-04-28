@@ -21,7 +21,7 @@ Entropy and information measures provide a **rich, continuous description of sig
 
 The methodology applies **KDE** to windowed segments of the time series at multiple scales, producing a sequence of PDFs. Then, various **entropy-based features** are computed for each PDF. The bandwidth is optimized offline using **JSD**, ensuring minimal bias and variance.
 
-![Method diagram](./assets/img/fig_1_art_1.png)  
+![Method diagram](/assets/img/fig_1_art_1.png)  
 *A modular pipeline applying KDE, JSD-based optimization, and entropic feature extraction over multiscale overlapping windows.*
 
 ---
@@ -32,14 +32,14 @@ The methodology applies **KDE** to windowed segments of the time series at multi
 
 We generate a synthetic signal that transitions from a normal to an anomalous regime using added frequency components. The anomaly is detected by shifts in entropy and information content.
 
-![Synthetic anomaly signal](./assets/img/fig_2_art_1.png)  
+![Synthetic anomaly signal](/assets/img/fig_2_art_1.png)  
 *A designed synthetic signal where harmonic content shifts during the anomaly window.*
 
 ## 🎯 Multiscale Feature Plots
 
 We visualize the extracted features across different window sizes and time indices.
 
-![Entropic time-series curves](./assets/img/fig_3_art_1.png)  
+![Entropic time-series curves](/assets/img/fig_3_art_1.png)  
 *Multiscale entropy and Fisher information curves over time. Anomalies manifest as sudden drops in information and spikes in entropy.*
 
 ---
@@ -48,10 +48,10 @@ We visualize the extracted features across different window sizes and time indic
 
 The methodology was applied to **scalp EEG signals** from the CHB-MIT database. The results show that seizures trigger consistent, multi-scale changes in the extracted features.
 
-![EEG preictal signals](./assets/img/fig_4_art_1.png)  
+![EEG preictal signals](/assets/img/fig_4_art_1.png)  
 *EEG signal before seizure: healthy baseline.*
 
-![EEG entropy behavior](./assets/img/fig_6_art_1.png)  
+![EEG entropy behavior](/assets/img/fig_6_art_1.png)  
 *Entropy and information functionals capturing the seizure onset across scales.*
 
 ---
@@ -60,7 +60,7 @@ The methodology was applied to **scalp EEG signals** from the CHB-MIT database. 
 
 To ensure interpretability, we also plotted the PDFs generated at different scales and bandwidths to visualize how KDE transforms signal windows before entropy evaluation.
 
-![PDF Grid by scale and h](./assets/img/fig_9_art_1.png)  
+![PDF Grid by scale and h](/assets/img/fig_9_art_1.png)  
 *Grid of PDFs for anomaly and normal signals across scales and bandwidths, showing clear contrast.*
 
 ---
@@ -72,3 +72,7 @@ To ensure interpretability, we also plotted the PDFs generated at different scal
 Mathematics, vol. 12, 2396, 2024.  
 📎 [https://doi.org/10.3390/math12152396](https://doi.org/10.3390/math12152396)  
 🔬 [Project Code on GitHub](https://github.com/antosquicciarini/Information_Measurement)
+
+---
+
+[⬅️ Back to Projects](/projects)
