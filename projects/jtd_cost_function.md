@@ -25,12 +25,12 @@ We demonstrate that JTD introduces an intrinsic **confidence penalty** on output
 
 ## 🔄 Learning Curve Comparison
 
-![Accuracy Learning Curves](./assets/img/fig_1.png)  
+![Accuracy Learning Curves](/assets/img/fig_1.png)  
 *Test vs train accuracy using CE, JSD, and JTD with various `q`. JTD improves generalization without overfitting.*
 
 ## 🎯 Regularization Term Behavior
 
-![Regularization Effect](./assets/img/fig_3.png)  
+![Regularization Effect](/assets/img/fig_3.png)  
 *Behavior of the JTD's regularization term as a function of model confidence. Larger `q` values shift the regularization curve and enhance robustness.*
 
 ---
@@ -41,3 +41,6 @@ We demonstrate that JTD introduces an intrinsic **confidence penalty** on output
 *Jensen-Tsallis Divergence for Supervised Classification under Data Imbalance*, submitted to Springer - Machine Learning (ECLM 2025).  
 🔗 [Project Repository](https://github.com/antosquicciarini/Jensen_Tsallis_Divergence_for_Supervised_Classification_under_Data_Imbalance)
 
+---
+
+[⬅️ Back to Projects](/projects)
