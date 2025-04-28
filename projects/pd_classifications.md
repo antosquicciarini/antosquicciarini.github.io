@@ -40,19 +40,19 @@ We developed a data preprocessing technique inspired by **Phase-Resolved Partial
 
 > 📌 *Note: The PRPD-based approach for AC PD classification is currently under development.*
 
-![PRPD-based preprocessing](./assets/img/PRPD_1.png)
+![PRPD-based preprocessing](/assets/img/PRPD_1.png)
 
 ## 🧩 2. Data Augmentation for Phase Robustness
 
 To increase robustness against shifts in the discharge phase and enhance generalization, we implemented a **data augmentation strategy** that simulates phase variation. This ensures that the model does not overfit to specific phase alignments.
 
-![Phase shift augmentation](./assets/img/PRPD_2.png)
+![Phase shift augmentation](/assets/img/PRPD_2.png)
 
 ## 🧠 3. Model Interpretability with Integrated Gradients
 
 We used **Integrated Gradients**, a method for explainable AI (XAI), to visualize the contributions of each input feature to the CNN's decision. This allowed us to evaluate the effectiveness of our preprocessing and identify areas for improvement.
 
-![Integrated gradients evaluation](./assets/img/PRPD_3.png)
+![Integrated gradients evaluation](/assets/img/PRPD_3.png)
 
 ---
 
@@ -60,7 +60,7 @@ We used **Integrated Gradients**, a method for explainable AI (XAI), to visualiz
 
 Finally, we designed a full classification pipeline tailored to partial discharges under DC stress. The system incorporates signal acquisition, preprocessing, CNN-based classification, and interpretability feedback.
 
-![PD classification in DC systems](./assets/img/PD_DC.png)
+![PD classification in DC systems](/assets/img/PD_DC.png)
 
 > 📝 *The results of this work applied to HVDC PD classification are published in:*  
 > **[1]** C. Vera et al., “Validation of a Qualification Procedure Applied to the Verification of Partial Discharge Analysers Used for HVDC or HVAC Networks,” *Applied Sciences*, vol. 13, no. 14, Art. no. 8214, 2023.  
