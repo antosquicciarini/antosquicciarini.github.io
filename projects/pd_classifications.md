@@ -60,8 +60,6 @@ We used **Integrated Gradients**, a method for explainable AI (XAI), to visualiz
 
 Finally, we designed a full classification pipeline tailored to partial discharges under DC stress. The system incorporates signal acquisition, preprocessing, CNN-based classification, and interpretability feedback.
 
-![PD classification in DC systems](/assets/img/PD_DC.png)
-
 > 📝 *The results of this work applied to HVDC PD classification are published in:*  
 > **[1]** C. Vera et al., “Validation of a Qualification Procedure Applied to the Verification of Partial Discharge Analysers Used for HVDC or HVAC Networks,” *Applied Sciences*, vol. 13, no. 14, Art. no. 8214, 2023.  
 > [https://doi.org/10.3390/app13148214](https://doi.org/10.3390/app13148214)
