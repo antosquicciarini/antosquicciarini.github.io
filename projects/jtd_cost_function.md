@@ -21,8 +21,6 @@ We demonstrate that JTD introduces an intrinsic **confidence penalty** on output
 
 ---
 
-## Results: Accuracy & Regularization Effect
-
 ## Learning Curve Comparison
 
 ![Accuracy Learning Curves](/assets/img/fig_1.png)  
