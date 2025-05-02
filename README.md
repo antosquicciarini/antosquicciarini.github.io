@@ -1,21 +1,18 @@
-# 👋 Welcome to My Portfolio
+# Welcome to My Portfolio
 
-I'm **Antonio Squicciarini**, a PhD candidate in Engineering at the Universidad Politécnica de Madrid (UPM), passionate about applying machine learning, signal processing, and information theory to real-world challenges in energy, health, and industry.
+I'm **Antonio Squicciarini**, a PhD candidate in Mathematics and Statistics at the Universidad Politécnica de Madrid (UPM), enrolled in the [IMEIO program](https://blogs.mat.ucm.es/imeio/). I'm passionate about applying machine learning, signal processing, and information theory to real-world challenges in energy, healthcare, and industry.
 
-This portfolio showcases my academic projects, published research, and collaborative experiences across Europe and the U.S. You’ll find detailed documentation, visuals, and links to repositories and publications.
+In this portfolio, you’ll find an overview of my main research projects, with links to GitHub repositories and references to scientific publications. You can also learn more about me—my interests, background, and access my CV. 
 
 ---
 
 ## 🚀 Explore My Work
 
-- 🔬 [Projects](projects) — A detailed collection of my applied research in deep learning, signal analysis, and intelligent fault detection.
-- 👤 [About](about) — Learn more about my academic background, experiences, and research trajectory.
-- 📬 [Contact](contact) — Reach out or connect with me via email, LinkedIn, or GitHub.
+- [Projects](projects) — A detailed collection of my applied research in deep learning, signal analysis, and intelligent fault detection.
+- [About me](about) — Learn more about my academic background, experiences, and research trajectory.
+- [Contact](contact) — Reach me out!
 
 ---
-
-Thanks for visiting — feel free to explore, clone, or contribute.  
-Let’s build something meaningful together!
 
 [![GitHub](https://img.shields.io/github/followers/antosquicciarini?label=Follow&style=social)](https://github.com/antosquicciarini)
 ---
