@@ -6,7 +6,7 @@ In this portfolio, you’ll find an overview of my main research projects, with 
 
 ---
 
-## 🚀 Explore My Work
+## Explore My Work
 
 - [Projects](projects) — A detailed collection of my applied research in deep learning, signal analysis, and intelligent fault detection.
 - [About me](about) — Learn more about my academic background, experiences, and research trajectory.
