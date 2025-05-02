@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-I'm **Antonio Squicciarini**, a PhD candidate in Mathematics and Statistics at the Universidad Politécnica de Madrid (UPM), enrolled in the [IMEIO program](https://blogs.mat.ucm.es/imeio/). I'm passionate about applying machine learning, signal processing, and information theory to real-world challenges in energy, healthcare, and industry.
+I'm **Antonio Squicciarini**, a Mechanical Engineer, now PhD candidate in Mathematics and Statistics at the Universidad Politécnica de Madrid (UPM), enrolled in the [IMEIO program](https://blogs.mat.ucm.es/imeio/). I'm passionate about applying machine learning, signal processing, and information theory to real-world challenges in energy, healthcare, and industry.
 
 In this portfolio, you’ll find an overview of my main research projects, with links to GitHub repositories and references to scientific publications. You can also learn more about me—my interests, background, and access my CV. 
 
