@@ -30,4 +30,9 @@ We developed a partial discharge classification system for high-voltage DC envir
 
 ---
 
+## [Congress Posters and Presentations](projects/posters_and_presentations)
+Here you can find my posters and presentations displayed at various conferences and workshops.
+
+
+
 [🔙 Back to Home](./)
