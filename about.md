@@ -5,102 +5,51 @@ title: About
 
 # About Me
 
+---
+
+## My History
+
 Hello! I'm Antonio Squicciarini, a PhD candidate in Engineering with a growing passion for machine learning and data-driven technologies.
 
-I was born in the beautiful town of **Matera**, in southern Italy, where I completed all my early education up to high school at *Liceo Scientifico Dante Alighieri*. My academic journey took shape at the **Politecnico di Torino**, where I pursued both my **Bachelor's and Master’s degrees in Mechanical Engineering**. 
+I was born in the beautiful town of **Matera**, in southern Italy, where I completed my early education at *Liceo Scientifico Dante Alighieri*. I then moved to northern Italy to study at the **Politecnico di Torino**, where I earned both my **Bachelor’s and Master’s degrees in Mechanical Engineering**.
 
-During my final year, I had the opportunity to study abroad at **E.T.S.I. Industriales, Universidad Politécnica de Madrid (UPM)**, which significantly enriched my education and perspective. It was here, while working on my master’s thesis, that I first encountered the field of **machine learning**—an area that immediately captivated me with its potential and complexity.
+During the final year of my Master's, I had the opportunity to study abroad at **E.T.S.I. Industriales, Universidad Politécnica de Madrid (UPM)**. While developing my thesis on fault detection in rotating machinery, I was introduced to machine learning and deep learning—an experience that sparked a growing interest in data science.
 
-After graduation, I joined UPM as a **postgraduate researcher**, where I deepened my focus on data analysis and algorithm development. This experience laid the groundwork for my current **PhD project**, which blends **information theory, signal processing, and machine learning** to develop innovative anomaly detection techniques. My PhD is now approaching its final phase, and I continue to be driven by curiosity and interdisciplinary challenges.
+After graduation, I joined UPM as a postgraduate researcher, where I focused on deep learning theory and its application to fault classification. My work involved the detection of partial discharges in AC and DC electrical grids. This research experience laid the groundwork for my current **PhD project**, which sits at the intersection of **information theory, signal processing, and machine learning**. My work aims to design novel entropic and information divergences to improve both feature extraction and optimization techniques, with applications in time series anomaly detection. I also address fundamental challenges such as class imbalance and label noise in supervised classification settings.
 
----
+In **2024**, I had the opportunity to spend a semester abroad at **Cornell Tech** in Manhattan, joining the **S.A.B.Lab**, a research group focused on **medical image analysis** and **deep learning theory**. This international experience broadened my research perspective and deepened my commitment to contributing meaningfully to the field of machine learning.
 
-## 🎓 Education
-
-**PhD Mobility Project**  
-Cornell Tech, New York, USA (Aug 2024 – Nov 2024)
-
-**PhD Candidate (IMEIO Program, UPM-UCM)**  
-Universidad Politécnica de Madrid, Spain (2021 – 2025)  
-*Thesis: Design of Machine Learning Algorithms based on Information Metrics.*
-
-**Master’s Thesis Project**  
-Universidad Politécnica de Madrid, Spain (2020)  
-*Thesis: Deep Neural Network algorithm for Rub detection in gas turbines*  
-*Grade: A*
-
-**Master’s Degree in Mechanical Engineering**  
-Politecnico di Torino, Italy (2018 – 2020)  
-*Graduated with 110L/110*
-
-**Bachelor’s Degree in Mechanical Engineering**  
-Politecnico di Torino, Italy (2015 – 2018)  
-*Thesis: Sensitivity analysis of scroll expander performance*  
-*Grade: 110/110*
-
-**Secondary Education Diploma**  
-Liceo Scientifico Dante Alighieri, Matera, Italy (2010 – 2015)  
-*Final Grade: 100/100*
+Now entering the final phase of my PhD, I am excited to take on new challenges and explore future opportunities in both research and applied domains.
 
 ---
 
-## 🔬 Research Experience
+## Language Skills
 
-**SIAM MDS22** — Poster: *Training Neural Networks with Synthetic Data* (USA, 2022)  
-**CIBIM2022** — Paper: *Rub Detection in Gas Turbines with Deep Learning* (Madrid, 2022)  
-**CEM Workshop** — Poster: *Validation of Calibration Procedures for HVDC PD Analyzers* (2023)  
-**FDA & Nonparametric Stats Workshop** — Seminar: *EEG Seizure Analysis with KDE & Info Metrics*  
-**IX Iberian Modelling Week** — Project: *Cryoablation Tumor Segmentation Algorithm*  
-**BYMAD Conference** — Presentation: *EEG Seizure Description via Entropic Metrics*  
-**III Junior Interdisciplinary Workshop** — Talk: *Time Signal Anomaly Detection Using KDE*
+Over the years, I’ve developed strong communication skills in multiple languages. I hold a **B2 level in English**, certified by the Cambridge FCE, and a **B2 level in Spanish**, earned through coursework at UPM’s Centro de Lenguas in 2020. I’m currently expanding my linguistic horizons by learning **French**, with a focus on conversational fluency.
 
 ---
 
-## 💼 Work Experience
+## Computer and Technical Skills
 
-**Postgraduate Researcher**  
-Universidad Politécnica de Madrid (2020 – 2022)  
-- Developed supervised algorithms for partial discharge classification in HV networks.
+My main programming language is **Python**, which I use extensively for data analysis, deep learning, and research prototyping. I also have solid experience with **MATLAB**, developed during various engineering projects throughout my bachelor's and master’s studies, where I also learned **C** programming.
 
----
-
-## 🛠 University Projects
-
-- **ERASMUS+ Programme**, UPM (2019–2020)  
-- **PoliTo Sailing Team**, Dynamic Division (2018–2019)  
-- **SEI - Explorer Module**, Fondazione Agnelli (2018)  
-- **Percorso per Giovani Talenti**, Politecnico di Torino (2015–2018)
-
----
-## 🌍 Other Experience
-
-- **Model UN**, New York, USA (2015)  
-- **Scout Volunteer**, CNGEI, Matera (2012–2014)  
-- **Student Representative**, High School Board (2013–2015)
+In terms of engineering software, I have completed projects using **SolidWorks**, **Automation Studio**, **NX Siemens**, **FlexSim**, and **Ansys Mechanical**. For documentation and academic writing, I frequently use **LaTeX**. My workflow often involves tools such as **Jupyter Notebooks**, **GitHub**, and **Google Cloud Platform**.
 
 ---
 
-## 📜 Certifications
+## Interests and Hobbies
 
-- *Engineer Qualification Exam*, Politecnico di Torino (2020)  
-  - Score: 49/50  
-- *AI-900: Microsoft Azure AI Fundamentals* (2022)  
-- *Quantitative Research & ML Certification*, UPM-CSIC (2020)
+Beyond research, I enjoy staying active—particularly through hiking 🥾 and regular workouts at the gym 💪. I am passionate about language learning 🗣️. I also enjoy listening to podcasts 🎧, especially those that cover public policy and the latest scientific discoveries 🔬. Reading 📚 and traveling 🌍 are long-standing personal passions that keep me curious and open to new ideas.
 
 ---
 
-## 🌐 Language Skills
+## A Few More Things About Me
 
-- **English**: B2 (Cambridge FCE, 2015)  
-- **Spanish**: B2 (Centro de Lenguas – UPM, 2020)
-  
----
+Teamwork and leadership have always played an important role in my personal development. I was an active member of the **CNGEI Scout Group** in Matera during high school, and served as my school’s **student representative** for two consecutive years.
 
-## 💻 Computer Skills
+During my bachelor's studies, I was part of a **Sailing Team**, a student-led group focused on designing competitive sailboats. I belonged to the dynamics subgroup, working on performance prediction models based on aerodynamic data from the design team.
 
-**Languages**: Python, C  
-**Software**: MATLAB, SolidWorks, Automation Studio, NX Siemens, FlexSim, Ansys Mechanical, LaTeX  
-**Tools**: Jupyter, Anaconda, GitHub, Google Cloud Platform
+In 2018, I participated at **Explorer Module of the School of Entrepreneurship and Innovation (SEI)**, supported by **Fondazione Agnelli**. I also participated in the **"Percorso per Giovani Talenti"**, a program for top-performing students at Politecnico di Torino between 2015 and 2018.
 
 ---
 
