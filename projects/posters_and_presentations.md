@@ -15,4 +15,4 @@ title: About
 
 ---
 
-[🔙 Back to Home](./)
+[⬅️ Back to Projects](/projects)
