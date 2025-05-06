@@ -25,7 +25,7 @@ Now entering the final phase of my PhD, I am excited to take on new challenges a
 
 ## Language Skills
 
-Over the years, I’ve developed strong communication skills in multiple languages. I hold a **B2 level in English**, certified by the Cambridge FCE, and a **B2 level in Spanish**, earned through coursework at UPM’s Centro de Lenguas in 2020. I’m currently expanding my linguistic horizons by learning **French**, with a focus on conversational fluency.
+Over the years, I’ve developed strong communication skills in multiple languages. I’m **fluent in both English and Spanish**—having spent recent years working in Spain, where Spanish was the main language in daily life, while English remained predominant in scientific publications, events, and during my semester abroad in **New York City**. Currently, I’m also learning **French**, though I’m still at the beginning stage.
 
 ---
 
