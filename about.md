@@ -47,7 +47,7 @@ Beyond research, I enjoy staying active—particularly through hiking 🥾 and r
 
 Teamwork and leadership have always played an important role in my personal development. I was an active member of the **CNGEI Scout Group** in Matera during high school, and served as my school’s **student representative** for two consecutive years.
 
-During my bachelor's studies, I was part of a **Sailing Team**, a student-led group focused on designing competitive sailboats. I belonged to the dynamics subgroup, working on performance prediction models based on aerodynamic data from the design team.
+During my bachelor's studies, I was part of the [**PoliTo Sailing Team**](https://sailingteam.polito.it/), a student-led group focused on designing competitive sailboats. I belonged to the dynamics subgroup, working on performance prediction models based on aerodynamic data from the design team.
 
 In 2018, I participated at **Explorer Module of the School of Entrepreneurship and Innovation (SEI)**, supported by **Fondazione Agnelli**. I also participated in the **"Percorso per Giovani Talenti"**, a program for top-performing students at Politecnico di Torino between 2015 and 2018.
 
