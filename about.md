@@ -25,7 +25,7 @@ Now entering the final phase of my PhD, I am excited to take on new challenges a
 
 ## Language Skills
 
-Over the years, I’ve developed strong communication skills in multiple languages. I’m **fluent in both English and Spanish**—having spent recent years working in Spain, where Spanish was the main language in daily life, while English remained predominant in scientific publications, events, and during my semester abroad in **New York City**. Currently, I’m also learning **French**, though I’m still at the beginning stage.
+Over the years, I’ve developed strong communication skills in multiple languages. My **mother tongue is Italian 🇮🇹**, and I’m fluent in **English 🇬🇧** and **Spanish 🇪🇸**—having spent recent years working in Spain, where Spanish was the main language in daily life, while English remained predominant in scientific publications, professional events, and during my semester abroad in **New York City 🇺🇸**. Currently, I’m also learning **French 🇫🇷**, though I’m still at the beginning stage.
 
 ---
 
