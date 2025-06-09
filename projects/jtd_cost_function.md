@@ -36,7 +36,7 @@ We demonstrate that JTD introduces an intrinsic **confidence penalty** on output
 ## Related Preprint
 
 **Squicciarini, A., Trigano, T., Luengo, D.**  
-*Jensen-Tsallis Divergence for Supervised Classification under Data Imbalance* Machine Learning (ECLM-PKDD 2025), 114(7), 162 (2025). https://doi.org/10.1007/s10994-025-06791-4
+*Jensen-Tsallis Divergence for Supervised Classification under Data Imbalance*, Machine Learning (Spinger, ECLM-PKDD 2025), 114(7), 162 (2025). https://doi.org/10.1007/s10994-025-06791-4
 🔗 [Project Repository](https://github.com/antosquicciarini/Jensen_Tsallis_Divergence_for_Supervised_Classification_under_Data_Imbalance)
 
 ---
