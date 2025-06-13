@@ -4,5 +4,5 @@ logo: assets/img/my_photo_circle.jpg
 #baseurl: ""
 #avatar: "/assets/img/my_photo_circle.jpg"
 #description
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
