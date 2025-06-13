@@ -15,7 +15,7 @@ C/José Gutiérrez Abascal 2, 28006 Madrid, España
 🔗 [LinkedIn](https://www.linkedin.com/in/antonio-squicciarini)  
 🐙 [GitHub](https://github.com/antosquicciarini)  
 📚 [Researcher Profile - UPM Portal Científico](https://portalcientifico.upm.es/es/ipublic/researcher/333043)  
-📖 [Google Scholar](https://scholar.google.com/citations?user=RHAxR_4AAAAJ&hl=en)  
+📖 [Google Scholar](https://scholar.google.com/citations?user=RHAxR_4AAAAJ&hl=es)  
 🌐 [Personal Website](https://antosquicciarini.github.io)
 
 ---
